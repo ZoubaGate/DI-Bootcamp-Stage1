@@ -1,0 +1,12 @@
+#wrap{
+    display: flex;
+    
+}
+#nav{
+    width: 30%;
+    float:left ;
+}
+#content{
+    width: 70%;
+    float: right;
+}
